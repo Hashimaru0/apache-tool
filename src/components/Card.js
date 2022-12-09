@@ -1,6 +1,6 @@
 const Card = (props) => {
   return (
-    <div className="relative flex flex-col w-[75vw] sm:w-[15rem] h-[62.5vw] sm:h-[12.5rem] bg-[#222733] mx-[0.5rem] rounded mt-4 hover:scale-[1.05] transition">
+    <div className="relative flex flex-col w-[75vw] sm:w-[15rem] h-[62.5vw] sm:h-[12.5rem] bg-[#222733] mx-[0.5rem] rounded mt-4 hover:scale-[1.05] transition z-0">
       <a
         href={`https://store.steampowered.com/app/${props.appid}`}
         target="_blank"
