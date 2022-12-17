@@ -4,7 +4,7 @@ const Card = (props) => {
       <a
         href={`https://store.steampowered.com/app/${props.appid}`}
         target="_blank"
-        className="absolute w-full h-full z-50"
+        className="absolute flex flex-col w-full h-full z-50"
         rel="noreferrer"
       >
         <div className="absolute top-[0.22rem] right-[-1.84rem] rotate-45">
