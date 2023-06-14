@@ -1,7 +1,7 @@
-# Apache
+# [Apache](https://apache-tool.netlify.app/)
 #### Tool / API Fetching / CORS Proxy
 A list of Steam game prices with filter for those who are on sale or free.  
-Live demo: https://apache-tool.netlify.app/
+
 ## How It Works
 
 ### Fetch Steam Game Data
